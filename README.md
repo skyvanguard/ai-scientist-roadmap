@@ -1,17 +1,97 @@
-# AI Scientist Roadmap
+<div align="center">
 
-A complete path from zero to AI Scientist. Free resources, hands-on projects, and clear milestones.
+# 🔬 AI Scientist Roadmap
+
+### From Zero to AI Researcher in 12-18 Months
+
+[![GitHub stars](https://img.shields.io/github/stars/skyvanguard/ai-scientist-roadmap?style=social)](https://github.com/skyvanguard/ai-scientist-roadmap/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/skyvanguard/ai-scientist-roadmap?style=social)](https://github.com/skyvanguard/ai-scientist-roadmap/network/members)
+[![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
+A complete, self-paced curriculum to become an AI Scientist. 100% free resources. Hands-on projects. Clear milestones.
 
 ```
 🌱 Beginner → 🌿 Intermediate → 🌳 Advanced → 🔬 Scientist
 ```
 
+[Quick Start](#-quick-start) · [Full Roadmap](#phase-0-prerequisites-4-6-weeks) · [Why This Roadmap](#-why-this-roadmap) · [Contributing](#contributing)
+
+</div>
+
+---
+
+## 🤔 Why This Roadmap?
+
+There are many AI learning resources. Here's why this one is different:
+
+| Problem with other roadmaps | This roadmap |
+|-----------------------------|--------------|
+| Scattered resources, no structure | **Linear progression** with clear phases |
+| Paid courses hidden as "essential" | **100% free resources** for every topic |
+| Theory-heavy, no practice | **Projects at every phase** to build portfolio |
+| Outdated (pre-ChatGPT era) | **Updated for 2024-2025** with LLMs, RAG, agents |
+| No research path | **Phases 4-5** teach how to read/write papers |
+| One-size-fits-all | **Specialization tracks** (CV, NLP, RL, GenAI, Safety) |
+
+### Who is this for?
+
+- Self-taught developers wanting to transition into AI
+- CS students looking for structured self-study
+- ML engineers wanting to move into research
+- Anyone curious about the path from code to papers
+
+### What you'll achieve
+
+```
+Phase 0-1: Can build ML models and understand the math
+Phase 2:   Can train neural networks for real problems
+Phase 3:   Specialist in CV, NLP, RL, GenAI, or AI Safety
+Phase 4:   Can read papers and reproduce research
+Phase 5:   Can produce original research
+```
+
+---
+
+## ⚡ Quick Start
+
+**Don't have time to read everything? Start here:**
+
+### Week 1: Validate your interest
+1. Watch [3Blue1Brown: Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (1 hour)
+2. Complete [Kaggle's Intro to ML](https://www.kaggle.com/learn/intro-to-machine-learning) (3 hours)
+3. Train your first model in [Google Colab](https://colab.research.google.com/)
+
+### Week 2-4: Build foundation
+1. Start [Andrew Ng's ML Course](https://www.coursera.org/specializations/machine-learning-introduction) (audit free)
+2. Practice Python with [Kaggle exercises](https://www.kaggle.com/learn/python)
+3. Join [r/learnmachinelearning](https://reddit.com/r/learnmachinelearning)
+
+**If you enjoy weeks 1-4, continue to the full roadmap below.**
+
+---
+
+## 📋 Table of Contents
+
+- [Phase 0: Prerequisites](#phase-0-prerequisites-4-6-weeks) (4-6 weeks)
+- [Phase 1: Machine Learning Foundations](#phase-1-machine-learning-foundations-8-10-weeks) (8-10 weeks)
+- [Phase 2: Deep Learning](#phase-2-deep-learning-10-12-weeks) (10-12 weeks)
+- [Phase 3: Specialization Tracks](#phase-3-specialization-tracks-12-16-weeks) (12-16 weeks)
+- [Phase 4: Research Skills](#phase-4-research-skills-8-12-weeks) (8-12 weeks)
+- [Phase 5: Original Research](#phase-5-original-research-ongoing) (Ongoing)
+- [Additional Resources](#additional-resources)
+- [Tools & Environment](#tools--environment)
+
+---
+
 ## How to Use This Roadmap
 
-1. Follow the phases in order
-2. Complete the projects before moving on
-3. Mark your progress with checkboxes
-4. Estimated time: 12-18 months (2-3 hours/day)
+1. **Follow the phases in order** — each builds on the previous
+2. **Complete the projects** before moving on — they're not optional
+3. **Mark your progress** with checkboxes — fork this repo to track
+4. **Estimated time:** 12-18 months at 2-3 hours/day
+
+> 💡 **Pro tip:** Fork this repo and check off items as you complete them. Your GitHub activity will show your learning journey.
 
 ---
 
